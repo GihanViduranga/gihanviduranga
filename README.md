@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gihan Viduranga</h1>
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
-<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4721j3jqr9n046gxzqscfc4p46n7by5230cqolnv7p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQ5ODgwODAsIm5iZiI6MTcwNDk4Nzc4MCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAxMTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMTExVDE1NDMwMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTljNGIyZmNlZWQ3MGMwMzk5MTVjNWY2ZDlhZmIzN2QxYWUzZmRhYjExY2ZhM2JiZTZiYTM1MDA5OWMxMDcyYTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.vAAEDixsKGGvdM5RkjzTr3JAzekVd0-mdO3b1ZnYhOk">
 - 🌱 I’m currently learning **JAVA,MySQL**
 
 - 📫 How to reach me **gihanvidu123@gmail.com**
