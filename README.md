@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gihan Viduranga</h1>
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
-
+<img src="https://media2.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=ecf05e4721j3jqr9n046gxzqscfc4p46n7by5230cqolnv7p&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 - 🌱 I’m currently learning **JAVA,MySQL**
 
 - 📫 How to reach me **gihanvidu123@gmail.com**
