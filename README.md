@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gihan Viduranga</h1>
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
-<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>"](https://camo.githubusercontent.com/8678bdb8a407349a16bac7aac0985e39e64b54e539e0a5648d3531de8a6dc9f4/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f35626265306237613536666166323038613862376330376462373031383337632f74756d626c725f6e6d6c75393945595249317469776979786f315f3534302e67696676)>
+<iframe src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFxazdxNXo0YTZ3MHdraGE2cGhhMTFubmRyMHJwa290dWdrZXloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWN3KoFveUDPfQUO3m/giphy.gif>
 - 🌱 I’m currently learning **JAVA,MySQL**
 
 - 📫 How to reach me **gihanvidu123@gmail.com**
