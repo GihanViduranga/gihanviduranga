@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gihan Viduranga</h1>
 <h3 align="center">A passionate undergraduate student Software Engineer from Sri Lanka</h3>
-<iframe src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFxazdxNXo0YTZ3MHdraGE2cGhhMTFubmRyMHJwa290dWdrZXloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWN3KoFveUDPfQUO3m/giphy.gif>
+<iframe src=[https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGFxazdxNXo0YTZ3MHdraGE2cGhhMTFubmRyMHJwa290dWdrZXloNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eWN3KoFveUDPfQUO3m/giphy.gif](https://camo.githubusercontent.com/0bc88fe1a37c792f8a62e1b770b0b39e886405c1043d59a43fd0a7c27c2688b2/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)>
 - 🌱 I’m currently learning **JAVA,MySQL**
 
 - 📫 How to reach me **gihanvidu123@gmail.com**
