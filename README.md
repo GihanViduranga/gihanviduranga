@@ -1,3 +1,4 @@
+<img src="file:///C:/Users/Gihan%20Viduranga/OneDrive/Desktop/Free%20Universe%20Stars%20Video%20Gif%20Animated%20Zoom%20Virtual%20Background.gif">
 # 💫 About Me:
 🔭 I’m currently working on My_portfolio https://github.com/GihanViduranga/MyPortfolio<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning JAVA, HTML, CSS, JS, ReactJS<br>💬 Ask me about <br>⚡ Fun fact "The term "bug" in software comes from a real insect found in a computer in 1947!"
 
